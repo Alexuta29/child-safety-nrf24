@@ -7,7 +7,7 @@ The system consists of two modules:
 1.  **Child Module (Transmitter):** Continuously sends a "ping" signal via radio waves.
 2.  **Parent Module (Receiver):** Listens for the signal. If the signal is lost (child goes out of range) or blocked for a specific duration, an alarm (buzzer/LED) is triggered.
 
-## 🛠️ Hardware Required
+## Hardware Required
 * 2x Arduino Nano 
 * 2x nRF24L01+ Wireless Transceiver Modules
 * 1x Active Buzzer (for Parent module)
